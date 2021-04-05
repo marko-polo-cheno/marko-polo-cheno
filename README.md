@@ -6,4 +6,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marko-polo-cheno&count_private=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marko-polo-cheno&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marko-polo-cheno&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
