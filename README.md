@@ -11,3 +11,4 @@ Other aliases: fishyfish and [m375chen](https://www.linkedin.com/in/mark375chen/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marko-polo-cheno&count_private=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=marko-polo-cheno&color=5522b4&label=coolness counter)
